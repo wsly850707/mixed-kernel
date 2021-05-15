@@ -1,0 +1,188 @@
+V1	age	gender	race	smoking status	packyears	presence of hemopytsis	presence of lymphadenopathy
+GSM93997	34	M	OTHER	quit less than 10 years	17	no	no
+GSM94019	63	M	CAU	quit less than 10 years	75	no	yes
+GSM94020	NA				NA		
+GSM94021	69	M	CAU	quit for 10 years or greater	70	no	yes
+GSM94022	61	M	CAU	quit less than 10 years	80	no	yes
+GSM94023	49	M	OTHER	quit less than 10 years	20	no	yes
+GSM94024	59	M	CAU	quit less than 10 years	120	no	yes
+GSM94025	69	M	OTHER	quit less than 10 years	80	no	no
+GSM94026	68	M	CAU	quit for 10 years or greater	70	no	no
+GSM94027	55	M	CAU	quit less than 10 years	50	no	yes
+GSM94028	NA				NA		
+GSM94029	64	M	CAU	quit less than 10 years	70.5	yes	no
+GSM94030	67	M	CAU	quit for 10 years or greater	4.5	yes	no
+GSM94031	74	M	OTHER	quit less than 10 years	76	no	no
+GSM94032	60	F	CAU	quit less than 10 years	46	no	yes
+GSM94033	50	M	CAU	quit less than 10 years	76	no	yes
+GSM94034	68	F	CAU	quit less than 10 years	49	no	no
+GSM94035	62	F	CAU	quit for 10 years or greater	38	no	no
+GSM94036	55	F	OTHER	quit less than 10 years	35	no	no
+GSM94037	65	F	OTHER	quit less than 10 years	50	no	yes
+GSM94038	NA				NA		
+GSM94039	NA				NA		
+GSM94040	75	M	CAU	quit less than 10 years	60	no	yes
+GSM94041	65	F	CAU	quit less than 10 years	47	no	no
+GSM94042	NA				NA		
+GSM94043	62	M	CAU	quit for 10 years or greater	120	no	yes
+GSM94044	NA				NA		
+GSM94045	73	M	OTHER	quit for 10 years or greater	50	yes	no
+GSM94046	52	M	OTHER	quit less than 10 years	20	no	no
+GSM94047	79	M	CAU	quit for 10 years or greater	25	no	yes
+GSM94048	59	M	CAU	quit for 10 years or greater	20	no	yes
+GSM94049	54	M	CAU	quit less than 10 years	38	no	yes
+GSM94050	69	F	CAU	quit less than 10 years	100	no	yes
+GSM94051	75	M	CAU	quit less than 10 years	55	no	no
+GSM94052	68	M	CAU	quit less than 10 years	63	no	no
+GSM94053	NA				NA		
+GSM94054	57	M	CAU	quit less than 10 years	54	no	no
+GSM94055	59	M	CAU	quit less than 10 years	43	no	no
+GSM94056	54	M	CAU	quit less than 10 years	42	no	yes
+GSM94057	NA				NA		
+GSM94058	65	M	CAU	quit less than 10 years	60	no	no
+GSM94059	65	M	CAU	quit less than 10 years	50	no	no
+GSM94060	NA				NA		
+GSM94061	76	F	CAU	quit less than 10 years	75	no	no
+GSM94062	NA				NA		
+GSM94063	66	F	CAU	quit for 10 years or greater	60	no	yes
+GSM94064	NA				NA		
+GSM94065	70	M	CAU	quit less than 10 years	23	no	no
+GSM94066	NA				NA		
+GSM94067	59	M	CAU	quit less than 10 years	43	no	no
+GSM94068	NA				NA		
+GSM94069	75	M	OTHER	quit for 10 years or greater	100	no	yes
+GSM94070	NA				NA		
+GSM94071	65	M	CAU	quit less than 10 years	113	no	no
+GSM94072	42	F	CAU	quit less than 10 years	37	no	no
+GSM94073	65	M	CAU	quit less than 10 years	71	no	no
+GSM94074	55	M	OTHER	quit less than 10 years	25	no	no
+GSM94075	54	M	CAU	quit less than 10 years	29	no	no
+GSM94077	48	M	OTHER	quit less than 10 years	21	no	no
+GSM94078	27	F	OTHER	quit less than 10 years	0.5	no	no
+GSM94079	23	M	OTHER	quit less than 10 years	7	no	no
+GSM94080	NA				NA		
+GSM94081	38	M	OTHER	quit less than 10 years	28	no	no
+GSM94082	39	F	OTHER	quit less than 10 years	23	no	no
+GSM94083	39	M	OTHER	quit less than 10 years	9.2	no	no
+GSM94084	40	F	OTHER	quit less than 10 years	30	no	no
+GSM94085	39	M	OTHER	quit less than 10 years	20	no	no
+GSM94086	43	M	OTHER	quit less than 10 years	10	no	no
+GSM94087	38	M	OTHER	quit less than 10 years	21.75	no	no
+GSM94088	26	F	OTHER	quit less than 10 years	22.5	no	no
+GSM94089	45	F	OTHER	quit less than 10 years	2	no	no
+GSM94090	NA				NA		
+GSM94091	39	M	CAU	quit less than 10 years	25	no	no
+GSM94092	50	M	OTHER	quit for 10 years or greater	8.25	yes	no
+GSM94093	41	M	CAU	quit less than 10 years	28.25	no	no
+GSM94094	37	M	OTHER	quit less than 10 years	19	no	no
+GSM94095	54	M	OTHER	quit less than 10 years	20.5	no	no
+GSM94096	71	M	CAU	quit less than 10 years	56	no	no
+GSM94097	32	M	OTHER	quit less than 10 years	2	no	no
+GSM94098	33	M	OTHER	quit less than 10 years	3.5	no	no
+GSM94099	54	M	OTHER	quit less than 10 years	9.75	no	no
+GSM94100	62	M	OTHER	quit less than 10 years	47.5	no	no
+GSM94101	42	M	OTHER	quit less than 10 years	1	no	no
+GSM94102	73	M	CAU	quit less than 10 years	51	no	no
+GSM94103	43	F	OTHER	quit for 10 years or greater	7	no	no
+GSM94104	42	F	OTHER	quit less than 10 years	28	no	no
+GSM94105	30	M	OTHER	quit less than 10 years	4	no	no
+GSM94106	36	M	OTHER	quit less than 10 years	4	no	no
+GSM94107	54	M	CAU	quit less than 10 years	90	no	no
+GSM94108	40	F	OTHER	quit for 10 years or greater	5	no	no
+GSM94109	53	M	OTHER	quit less than 10 years	40	no	no
+GSM94110	27	M	CAU	quit less than 10 years	8.13	no	no
+GSM94111	56	M	CAU	quit less than 10 years	42	no	no
+GSM94112	NA				NA		
+GSM94113	NA				NA		
+GSM94114	38	M	OTHER	quit less than 10 years	25	no	no
+GSM94115	40	M	CAU	quit less than 10 years	21	no	no
+GSM94116	37	F	OTHER	quit less than 10 years	13	no	no
+GSM94117	55	M	CAU	quit for 10 years or greater	10	no	no
+GSM94118	26	F	OTHER	quit less than 10 years	1.1	no	yes
+GSM94119	75	F	CAU	quit less than 10 years	23	no	no
+GSM94120	54	F	CAU	quit for 10 years or greater	90	no	no
+GSM94121	59	M	CAU	quit for 10 years or greater	13	no	no
+GSM94122	59	M	CAU	quit less than 10 years	100	no	no
+GSM94123	59	M	CAU	quit less than 10 years	70.5	no	no
+GSM94124	35	F	CAU	quit less than 10 years	25	no	no
+GSM94125	71	M	CAU	quit for 10 years or greater	70	no	no
+GSM94126	23	M	OTHER	quit less than 10 years	7	yes	no
+GSM94127	65	M	CAU	quit less than 10 years	50	no	no
+GSM94128	69	M	OTHER	quit less than 10 years	30	no	no
+GSM94129	49	M	OTHER	quit less than 10 years	0.5	no	no
+GSM94130	59	F	CAU	quit for 10 years or greater	5	no	no
+GSM94131	63	M	OTHER	quit for 10 years or greater	0.5	no	no
+GSM94132	49	F	OTHER	quit less than 10 years	34	yes	yes
+GSM94133	NA				NA		
+GSM94134	53	F	CAU	quit less than 10 years	40	no	no
+GSM94135	76	M	CAU	quit for 10 years or greater	35	no	yes
+GSM94136	50	F	CAU	quit less than 10 years	5	no	no
+GSM94137	36	F	OTHER	quit less than 10 years	10.5	no	no
+GSM94138	74	M	CAU	quit for 10 years or greater	60	yes	no
+GSM94139	76	M	CAU	quit for 10 years or greater	31	no	yes
+GSM94140	79	M	CAU	quit less than 10 years	64	no	no
+GSM94141	71	M	CAU	quit less than 10 years	80	yes	no
+GSM94142	51	M	CAU	quit less than 10 years	45	yes	no
+GSM94143	71	M	CAU	quit less than 10 years	61	yes	no
+GSM94144	46	M	OTHER	quit less than 10 years	24	no	no
+GSM94145	69	M	CAU	quit less than 10 years	25	no	no
+GSM94146	58	M	CAU	quit less than 10 years	22	no	yes
+GSM94147	74	M	CAU	quit for 10 years or greater	100	no	no
+GSM94148	69	M	CAU	quit less than 10 years	114	no	yes
+GSM94155	74	M	CAU	quit for 10 years or greater	53	no	no
+GSM94156	NA				NA		
+GSM94157	56	M	CAU	quit less than 10 years	45	no	no
+GSM94160	73	M	CAU	quit less than 10 years	48	no	no
+GSM94161	51	M	CAU	quit less than 10 years	41	no	no
+GSM94162	58	M	CAU	quit less than 10 years	40	no	yes
+GSM94163	NA				NA		
+GSM94164	55	M	CAU	quit less than 10 years	78	no	yes
+GSM94165	74	M	CAU	quit for 10 years or greater	50	no	yes
+GSM94166	71	F	CAU	quit less than 10 years	55	yes	yes
+GSM94167	75	M	CAU	quit less than 10 years	53	no	no
+GSM94168	70	M	CAU	quit less than 10 years	105	no	yes
+GSM94169	60	M	OTHER	quit less than 10 years	72	no	yes
+GSM94170	79	M	CAU	quit less than 10 years	90	no	no
+GSM94171	55	M	CAU	quit less than 10 years	64	no	no
+GSM94172	65	M	CAU	quit less than 10 years	82	yes	no
+GSM94173	NA				NA		
+GSM94174	83	M	CAU	quit less than 10 years	80	no	no
+GSM94175	NA				NA		
+GSM94176	80	M	CAU	quit for 10 years or greater	23	no	yes
+GSM94177	49	F	CAU	quit less than 10 years	32	no	yes
+GSM94178	NA				NA		
+GSM98767	77	M	CAU	quit less than 10 years	51	no	yes
+GSM98768	72	F	CAU	quit for 10 years or greater	22	no	no
+GSM98769	57	M	OTHER	quit less than 10 years	19.5	no	no
+GSM98770	78	F	CAU	quit for 10 years or greater	18	no	no
+GSM98771	57	F	CAU	quit less than 10 years	76	no	yes
+GSM98772	83	M	CAU	quit less than 10 years	57	no	no
+GSM98773	63	M	CAU	quit less than 10 years	35	no	yes
+GSM98774	65	M	CAU	quit less than 10 years	37.5	no	yes
+GSM98775	55	M	CAU	quit less than 10 years	75	no	yes
+GSM98776	67	F	CAU	quit for 10 years or greater	20	no	no
+GSM98777	58	M	CAU	quit less than 10 years	11	no	yes
+GSM98778	55	M	CAU	quit less than 10 years	78	no	yes
+GSM98779	86	F	CAU	quit less than 10 years	46	no	no
+GSM98780	70	M	CAU	quit less than 10 years	108	no	no
+GSM98781	46	M	CAU	quit less than 10 years	33	no	yes
+GSM98782	78	M	CAU	quit for 10 years or greater	85	no	yes
+GSM98783	70	F	CAU	quit for 10 years or greater	9	no	no
+GSM98784	53	M	CAU	quit less than 10 years	59	yes	yes
+GSM98785	68	F	OTHER	quit less than 10 years	53	yes	no
+GSM98786	66	M	CAU	quit less than 10 years	85	no	no
+GSM98787	47	M	OTHER	quit less than 10 years	39.5	no	no
+GSM98788	64	F	CAU	quit less than 10 years	24.25	no	no
+GSM98789	59	M	CAU	quit for 10 years or greater	5.5	no	no
+GSM98790	48	F	CAU	quit less than 10 years	64	no	no
+GSM98791	68	M	CAU	quit less than 10 years	105	no	no
+GSM98792	45	M	OTHER	quit less than 10 years	16	no	no
+GSM98793	53	M	CAU	quit less than 10 years	70	yes	no
+GSM98794	66	M	OTHER	quit less than 10 years	4	no	no
+GSM98795	63	M	CAU	quit less than 10 years	84	no	yes
+GSM98796	45	F	OTHER	quit less than 10 years	14	no	no
+GSM98797	80	M	CAU	quit for 10 years or greater	65	no	no
+GSM98798	65	M	CAU	quit less than 10 years	99	no	no
+GSM98799	79	F	CAU	quit less than 10 years	180	no	no
+GSM98800	71	M	CAU	quit less than 10 years	45	no	no
+GSM98801	71	M	CAU	quit less than 10 years	67	no	no

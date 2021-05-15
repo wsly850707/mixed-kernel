@@ -1,0 +1,193 @@
+ID   	state
+GSM93997	no cancer
+GSM94019	cancer
+GSM94020	cancer
+GSM94021	cancer
+GSM94022	cancer
+GSM94023	cancer
+GSM94024	cancer
+GSM94025	cancer
+GSM94026	cancer
+GSM94027	cancer
+GSM94028	cancer
+GSM94029	cancer
+GSM94030	cancer
+GSM94031	cancer
+GSM94032	cancer
+GSM94033	cancer
+GSM94034	cancer
+GSM94035	cancer
+GSM94036	cancer
+GSM94037	cancer
+GSM94038	cancer
+GSM94039	cancer
+GSM94040	cancer
+GSM94041	cancer
+GSM94042	cancer
+GSM94043	cancer
+GSM94044	cancer
+GSM94045	cancer
+GSM94046	cancer
+GSM94047	cancer
+GSM94048	cancer
+GSM94049	cancer
+GSM94050	cancer
+GSM94051	cancer
+GSM94052	cancer
+GSM94053	cancer
+GSM94054	cancer
+GSM94055	cancer
+GSM94056	cancer
+GSM94057	cancer
+GSM94058	cancer
+GSM94059	cancer
+GSM94060	cancer
+GSM94061	cancer
+GSM94062	cancer
+GSM94063	cancer
+GSM94064	cancer
+GSM94065	cancer
+GSM94066	cancer
+GSM94067	cancer
+GSM94068	cancer
+GSM94069	cancer
+GSM94070	cancer
+GSM94071	cancer
+GSM94072	cancer
+GSM94073	cancer
+GSM94074	cancer
+GSM94075	cancer
+GSM94077	no cancer
+GSM94078	no cancer
+GSM94079	no cancer
+GSM94080	no cancer
+GSM94081	no cancer
+GSM94082	no cancer
+GSM94083	no cancer
+GSM94084	no cancer
+GSM94085	no cancer
+GSM94086	no cancer
+GSM94087	no cancer
+GSM94088	no cancer
+GSM94089	no cancer
+GSM94090	no cancer
+GSM94091	no cancer
+GSM94092	no cancer
+GSM94093	no cancer
+GSM94094	no cancer
+GSM94095	no cancer
+GSM94096	no cancer
+GSM94097	no cancer
+GSM94098	no cancer
+GSM94099	no cancer
+GSM94100	no cancer
+GSM94101	no cancer
+GSM94102	no cancer
+GSM94103	no cancer
+GSM94104	no cancer
+GSM94105	no cancer
+GSM94106	no cancer
+GSM94107	no cancer
+GSM94108	no cancer
+GSM94109	no cancer
+GSM94110	no cancer
+GSM94111	no cancer
+GSM94112	no cancer
+GSM94113	no cancer
+GSM94114	no cancer
+GSM94115	no cancer
+GSM94116	no cancer
+GSM94117	no cancer
+GSM94118	no cancer
+GSM94119	no cancer
+GSM94120	no cancer
+GSM94121	no cancer
+GSM94122	no cancer
+GSM94123	no cancer
+GSM94124	no cancer
+GSM94125	no cancer
+GSM94126	no cancer
+GSM94127	no cancer
+GSM94128	no cancer
+GSM94129	no cancer
+GSM94130	no cancer
+GSM94131	no cancer
+GSM94132	no cancer
+GSM94133	no cancer
+GSM94134	no cancer
+GSM94135	no cancer
+GSM94136	no cancer
+GSM94137	no cancer
+GSM94138	no cancer
+GSM94139	no cancer
+GSM94140	no cancer
+GSM94141	no cancer
+GSM94142	no cancer
+GSM94143	no cancer
+GSM94144	no cancer
+GSM94145	no cancer
+GSM94146	no cancer
+GSM94147	no cancer
+GSM94148	no cancer
+GSM94155	cancer
+GSM94156	cancer
+GSM94157	cancer
+GSM94160	cancer
+GSM94161	cancer
+GSM94162	cancer
+GSM94163	cancer
+GSM94164	cancer
+GSM94165	cancer
+GSM94166	cancer
+GSM94167	cancer
+GSM94168	cancer
+GSM94169	cancer
+GSM94170	cancer
+GSM94171	cancer
+GSM94172	cancer
+GSM94173	cancer
+GSM94174	cancer
+GSM94175	cancer
+GSM94176	cancer
+GSM94177	cancer
+GSM94178	cancer
+GSM98767	cancer
+GSM98768	cancer
+GSM98769	cancer
+GSM98770	cancer
+GSM98771	cancer
+GSM98772	cancer
+GSM98773	cancer
+GSM98774	cancer
+GSM98775	cancer
+GSM98776	cancer
+GSM98777	cancer
+GSM98778	cancer
+GSM98779	cancer
+GSM98780	cancer
+GSM98781	cancer
+GSM98782	cancer
+GSM98783	cancer
+GSM98784	cancer
+GSM98785	no cancer
+GSM98786	no cancer
+GSM98787	no cancer
+GSM98788	no cancer
+GSM98789	no cancer
+GSM98790	no cancer
+GSM98791	no cancer
+GSM98792	no cancer
+GSM98793	no cancer
+GSM98794	no cancer
+GSM98795	no cancer
+GSM98796	no cancer
+GSM98797	no cancer
+GSM98798	no cancer
+GSM98799	no cancer
+GSM98800	no cancer
+GSM98801	no cancer
+GSM98871	suspect cancer
+GSM98872	suspect cancer
+GSM98873	suspect cancer
+GSM98874	suspect cancer
+GSM98875	suspect cancer
